@@ -1,8 +1,8 @@
 ### Olá! Eu sou Adriel Costa 👋
 
-- 🔭 Hoje trabalho como Auxiliar de atendimento Pleno
-- 🌱 Estudando para me tornar Dev. Front-End
-- 😄 Pronouns: ele/dele
+- 👔 Hoje trabalho como Auxiliar de atendimento Pleno
+- 💻 Devenvolvedor Front-End Junior
+- 🙃 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/adrcosta0">
