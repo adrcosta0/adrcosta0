@@ -1,4 +1,4 @@
-### Olá! Eu sou Adriel Costa 👋
+### Olá! Eu sou Adriel Costa 👋🏾
 
 - 👔 Atualmente trabalho como Auxiliar de atendimento Pleno
 - 💻 Devenvolvedor Front-End Junior
