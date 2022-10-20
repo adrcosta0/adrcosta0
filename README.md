@@ -26,3 +26,5 @@
     <a href="mailto:madrielcosta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img align="center" alt="Rafa-CSS" height="180" width="170" src="https://picrew.me/shareImg/org/202208/296093_Akrjtgy3.png">
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
