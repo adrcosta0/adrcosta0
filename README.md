@@ -19,7 +19,7 @@
 ##
 
 <div>
-  <a href = "mailto:madrielcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:madrielcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=whiteBackgroud=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriel-costa-40a47a21b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7HCEecFDR8e41Nxd5Zpv%2Bw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center" alt="Rafa-CSS" height="180" width="170" src="https://picrew.me/shareImg/org/202208/296093_Akrjtgy3.png">
 </div>
