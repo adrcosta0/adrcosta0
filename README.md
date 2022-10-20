@@ -27,4 +27,4 @@
   <img align="center" alt="Rafa-CSS" height="180" width="170" src="https://picrew.me/shareImg/org/202208/296093_Akrjtgy3.png">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/adrcosta0/adrcosta0/blob/output/github-contribution-grid-snake.svg)
