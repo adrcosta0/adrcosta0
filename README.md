@@ -25,7 +25,8 @@
    <a href="https://www.instagram.com/adr_costaxx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriel-costa-40a47a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:madrielcosta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img align="center" alt="Rafa-CSS" height="180" width="170" src="https://picrew.me/shareImg/org/202208/296093_Akrjtgy3.png">
+    <a href="https://br.pinterest.com/madrielcosta/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
+  <img align="center" alt="ADR-PICREW" height="180" width="170" src="https://picrew.me/shareImg/org/202208/296093_Akrjtgy3.png">
 </div>
 
 ![Snake animation](https://github.com/adrcosta0/adrcosta0/blob/output/github-contribution-grid-snake.svg)
