@@ -1,7 +1,7 @@
 ### Olá! Eu sou Adriel Costa 👋🏾
 
-- 👔 Atualmente trabalho como Auxiliar de atendimento Pleno
-- 💻 Devenvolvedor Front-End Junior
+- 💾 Atualmente trabalho como Auxiliar Técnico de Informática
+- 💻 Devenvolvedor Front-End
 - 🙃 Pronouns: ele/dele
 
 <div align="center">
